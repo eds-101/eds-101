@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Edeman George
 
-- 🔭 2021 goals: Land a software engineering role. Learning React / React Native, Mocha, Accessibility Testing, ES6
+- 🔭 2021 goals: Transition into FT software engineering role. Learn React / React Native, Mocha, Accessibility Testing, ES6
 - 💬 Ask me about anything, especially Football, Fitness, Nutrition and Festivals
 - ⚡ Fun fact: I like a party and I went out, at least once, every week in 2018
 
