@@ -6,9 +6,7 @@
 - 💬 Ask me about anything, especially Football, Fitness, Nutrition and Festivals
 - ⚡ Fun fact: I went out, at least once, every week in 2018
 
-## 🛠 Things I've Built...
-
-## Projects
+## 🛠 Things I've Built so far...
 
 | Name                         | Description                           | Tech/tools   
 | ---------------------------- | ------------------------------------- | --------------------------------------
