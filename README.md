@@ -18,7 +18,7 @@
 ## ⚙️ Employment History
 
 - Student - Software Development, Makers Academy (Feb 2021 – May 2021)
-- Independent Management Consultant (Jan 2019 - May 2021)
+- Independent Management Consultant (Jan 2019 - Present)
 - Insight Analyst - The Premier League (Nov 2017 - Dec 2018)
 - Tech Management Consultant - KPMG (2014 - 2017)
 
