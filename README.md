@@ -1,16 +1,28 @@
 ### Hi there 👋
+## Edeman George
 
-<!--
-**eds-101/eds-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: he/him
+- 🔭 2021 goals: Learning React / React Native, Mocha, Accessibility Testing, ES6
+- 💬 Ask me about anything, especially Football, Fitness, Nutrition and Festivals
+- ⚡ Fun fact: I went out, at least once, every week in 2018
 
-Here are some ideas to get you started:
+## 🛠 Things I've Built...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Name                         | Description                           | Tech/tools   
+| ---------------------------- | ------------------------------------- | --------------------------------------
+| **Fight Recommender** [link](https://github.com/eds-101/fight-recommender) | Mobile app to recommend fun fighters  | React Native, GraphQL, Apollo, Python
+| **Grappitude**        [link](https://github.com/kasey-purvor/Grappitude) | Mobile app to encourage gratitude     | R.Native, Mongoose, MongoDB, Jest
+| **Notes App**         [link](https://github.com/charlierdm/noteApp) | Web app for private notes             | No framework - Vanilla JS, own testing
+| **News Summary**      [link](https://github.com/eds-101/news-summary-challenge) | Summarised news using Guardian API    | Axios, jQuery
+
+
+## ⚙️ Employment History
+
+- Student - Software Development, Makers Academy (Feb 2021 – May 2021)
+- Independent Consultant (Jan 2019 - May 2021)
+- Insight Analyst - The Premier League (Nov 2017 - Dec 2018)
+- Tech Management Consultant - KPMG (2014 - 2017)
+
+View my latest full CV [here](https://drive.google.com/file/d/178Hw02kwrW2_m-3mEZnRPFNIxEOXTXAn/view?usp=sharing) 
