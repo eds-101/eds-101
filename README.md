@@ -23,5 +23,5 @@
 - Insight Analyst - The Premier League (Nov 2017 - Dec 2018)
 - Tech Management Consultant - KPMG (2014 - 2017)
 
-View my latest full CV [here](https://drive.google.com/file/d/178Hw02kwrW2_m-3mEZnRPFNIxEOXTXAn/view?usp=sharing) 
+View my latest full CV [here](https://drive.google.com/file/d/178Hw02kwrW2_m-3mEZnRPFNIxEOXTXAn/view?usp=sharing) |
 View my LinkedIn profile [here](https://www.linkedin.com/in/edeman-george-3aaa1387/)
