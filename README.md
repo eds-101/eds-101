@@ -1,10 +1,9 @@
 ### Hi there 👋
 ## Edeman George
 
-- 😄 Pronouns: he/him
 - 🔭 2021 goals: Land a software engineering role. Learning React / React Native, Mocha, Accessibility Testing, ES6
 - 💬 Ask me about anything, especially Football, Fitness, Nutrition and Festivals
-- ⚡ Fun fact: I went out, at least once, every week in 2018
+- ⚡ Fun fact: I like a party and I went out, at least once, every week in 2018
 
 ## 🛠 Things I've Built so far...
 
@@ -24,3 +23,4 @@
 - Tech Management Consultant - KPMG (2014 - 2017)
 
 View my latest full CV [here](https://drive.google.com/file/d/178Hw02kwrW2_m-3mEZnRPFNIxEOXTXAn/view?usp=sharing) 
+View my LinkedIn profile [here](https://www.linkedin.com/in/edeman-george-3aaa1387/)
