@@ -23,5 +23,13 @@
 - Insight Analyst - The Premier League (Nov 2017 - Dec 2018)
 - Tech Management Consultant - KPMG (2014 - 2017)
 
+## ⚙️ Relevant Qualifications
+
+- Certified SCRUM Master with PRINCE2 Practitioner qualifications and experience managing projects (Agile, KANBAN and Waterfall)
+- CIMA Foundation diploma for Management Accounting
+- Leeds University, Information Technology Degree, 2:1 (2010 to 2013)
+
+
+
 View my latest full CV [here](https://drive.google.com/file/d/178Hw02kwrW2_m-3mEZnRPFNIxEOXTXAn/view?usp=sharing) |
 View my LinkedIn profile [here](https://www.linkedin.com/in/edeman-george-3aaa1387/)
