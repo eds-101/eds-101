@@ -2,7 +2,7 @@
 ## Edeman George
 
 - 😄 Pronouns: he/him
-- 🔭 2021 goals: Learning React / React Native, Mocha, Accessibility Testing, ES6
+- 🔭 2021 goals: Land a software engineering role. Learning React / React Native, Mocha, Accessibility Testing, ES6
 - 💬 Ask me about anything, especially Football, Fitness, Nutrition and Festivals
 - ⚡ Fun fact: I went out, at least once, every week in 2018
 
@@ -19,7 +19,7 @@
 ## ⚙️ Employment History
 
 - Student - Software Development, Makers Academy (Feb 2021 – May 2021)
-- Independent Consultant (Jan 2019 - May 2021)
+- Independent Management Consultant (Jan 2019 - May 2021)
 - Insight Analyst - The Premier League (Nov 2017 - Dec 2018)
 - Tech Management Consultant - KPMG (2014 - 2017)
 
