@@ -12,7 +12,7 @@
 | **Fight Recommender** [(link)](https://github.com/eds-101/fight-recommender) | Mobile app to recommend fun fighters  | React Native, GraphQL, Apollo, Python
 | **Grappitude v2**        [(link)](https://github.com/eds-101/Grappitude) | V2 with Login, Delete comments, Maps, Sentiment Analysis    | React Native, Expo
 | **Grappitude**        [(link)](https://github.com/kasey-purvor/Grappitude) | Mobile app to encourage gratitude     | R.Native, Mongoose, MongoDB, Jest
-| **Notes App**         [(link)](https://github.com/charlierdm/noteApp) | Web app for private notes             | No framework - Vanilla JS, own testing
+| **Notes App**         [(link)](https://github.com/charlierdm/noteApp) | Web app for private notes             | No framework - Vanilla JS, own testing framework
 | **News Summary**      [(link)](https://github.com/eds-101/news-summary-challenge) | Summarised news using Guardian API    | APIs
 
 
