@@ -31,5 +31,5 @@
 
 
 
-View my latest full CV [here](https://drive.google.com/file/d/178Hw02kwrW2_m-3mEZnRPFNIxEOXTXAn/view?usp=sharing) |
+View my latest full CV [here](https://drive.google.com/file/d/1MkvL7NrhqiIoHz7fRA41O5vQUpCl71Wx/view?usp=sharing) |
 View my LinkedIn profile [here](https://www.linkedin.com/in/edeman-george-3aaa1387/)
