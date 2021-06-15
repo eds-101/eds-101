@@ -1,7 +1,6 @@
 ### Hi there 👋
-## Edeman George
 
-I've recently graduated from Makers Academy Software Engineering bootcamp and working towards my first role as a junior developer.
+My name is Ed and I've recently graduated from Makers Academy Software Engineering bootcamp and working towards my first role as a junior developer.
 
 Thanks for visiting, please feel free to [view my Github CV](https://github.com/eds-101/CV).
 
