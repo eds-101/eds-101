@@ -1,13 +1,11 @@
 ### Hi there 👋
 ## Edeman George
 
-Thanks for visiting, please feel free to view my CV [(here)](https://github.com/eds-101/CV).
+I've recently graduated from Makers Academy Software Engineering bootcamp and working towards my first role as a junior developer.
 
-- 🔭  2021 goals: Transition into FT software engineering role. Learn React / React Native, Mocha, Accessibility Testing, ES6
-- 💬  Ask me about anything, especially Football, Fitness, Nutrition and Festivals
-- ⚡  Fun fact: I like a party and I went out, at least once, every week in 2018
+Thanks for visiting, please feel free to [view my Github CV](https://github.com/eds-101/CV).
 
-## 🛠 Things I've Built so far...
+## 🛠 Recent projects
 
 | Name                         | Description                           | Tech/tools   
 | ---------------------------- | ------------------------------------- | --------------------------------------
