@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## Edeman George
 
+Thanks for visiting, please feel free to view my CV [(here)](https://github.com/eds-101/CV).
+
 - 🔭  2021 goals: Transition into FT software engineering role. Learn React / React Native, Mocha, Accessibility Testing, ES6
 - 💬  Ask me about anything, especially Football, Fitness, Nutrition and Festivals
 - ⚡  Fun fact: I like a party and I went out, at least once, every week in 2018
@@ -27,8 +29,3 @@
 - Certified SCRUM Master with PRINCE2 Practitioner qualifications and experience managing projects (Agile, KANBAN and Waterfall)
 - CIMA Foundation diploma for Management Accounting
 - Leeds University, Information Technology Degree, 2:1 (2010 to 2013)
-
-
-
-View my latest full CV [here](https://drive.google.com/file/d/1MkvL7NrhqiIoHz7fRA41O5vQUpCl71Wx/view?usp=sharing) |
-View my LinkedIn profile [here](https://www.linkedin.com/in/edeman-george-3aaa1387/)
