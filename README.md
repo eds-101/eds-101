@@ -8,9 +8,9 @@ Thanks for visiting, please feel free to [view my Github CV](https://github.com/
 
 | Name                         | Description                           | Tech/tools   
 | ---------------------------- | ------------------------------------- | --------------------------------------
-| [Grappitude v2](https://github.com/eds-101/Grappitude) | V2 with Login, Delete comments, Maps, Sentiment Analysis    | React Native, Expo
-| [Grappitude](https://github.com/kasey-purvor/Grappitude) | Mobile app to encourage gratitude     | R.Native, Mongoose, MongoDB, Jest
-| [Notes App](https://github.com/charlierdm/noteApp) | Web app for private notes             | No framework - Vanilla JS, own testing framework
+| [Grappitude v2](https://github.com/eds-101/Grappitude) | Learnt more about mobile development and added new features to final project including login/create account (with custom api built using Rails), interactive maps and sentiment analyster    | React Native, Expo, Natural Language Processor
+| [Grappitude](https://github.com/kasey-purvor/Grappitude) | Successfully built deployable mobile app to encourage gratitude in under two weeks. Developed skills to implement reading and creating records from/for back-end  | React Native, Mongoose, MongoDB, Jest
+| [Notes App](https://github.com/charlierdm/noteApp) | Web app for private notes             | Vanilla JS, custom testing framework
 | [News Summary](https://github.com/eds-101/news-summary-challenge) | Summarised news using Guardian API    | APIs
 
 
