@@ -10,6 +10,7 @@ Thanks for visiting, please feel free to [view my Github CV](https://github.com/
 | ---------------------------- | ------------------------------------- | --------------------------------------
 | [Grappitude v2](https://github.com/eds-101/Grappitude) | Learnt more about mobile development and added new features to final project including login/create account (with custom api built using Rails), interactive maps and sentiment analyster    | React Native, Expo, Natural Language Processor
 | [Grappitude](https://github.com/kasey-purvor/Grappitude) | Successfully built deployable mobile app to encourage gratitude in under two weeks. Developed skills to implement reading and creating records from/for back-end  | React Native, Mongoose, MongoDB, Jest
+| [Bank Tech Test](https://github.com/eds-101/bank-tech-test) | Command line bank app, with focus on high quality, well tested code using DRY, SRP and encapsulation principles.  | Ruby, Rspec
 | [Notes App](https://github.com/charlierdm/noteApp) | Web app for private notes             | Vanilla JS, custom testing framework
 | [News Summary](https://github.com/eds-101/news-summary-challenge) | Summarised news using Guardian API    | APIs
 
