@@ -11,6 +11,6 @@ In 2021 I was a Head of Tech and also learnt how to code from Makers Academy. I'
 Currently reading 📚 (synchronously 😅):
 * Clean Architecture - Robert C Martin aka Uncle Bob
 * Clean Code - Uncle Bob
-* Grayson Perry - Portrait of the Artist as a Young Girls 
+I pledge to use well considered variable names and conventions at all times.
 
 Thanks for visiting, please feel free to [contact me on LinkedIn](https://www.linkedin.com/in/edeman-george-3aaa1387/).
