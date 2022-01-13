@@ -6,7 +6,7 @@ In 2021 I was a Head of Tech and also learnt how to code from Makers Academy. I'
 
 2022 goals: 
 * Learning Solidity & the tech of the Blockchain world
-* React, Typescript & Javascript
+* React, Typescript & advanced Javascript
 
 Currently reading 📚 (synchronously):
 * Clean Architecture - Robert C Martin aka Uncle Bob
