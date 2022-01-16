@@ -12,7 +12,7 @@ Currently reading 📚 (synchronously):
 * Clean Architecture - Robert C Martin aka Uncle Bob
 * Clean Code - Uncle Bob
 
-Solving coding challenges:
+Solving coding challenges:  
 ![Codewars badge](https://www.codewars.com/users/eds-101/badges/large)
 
 Thanks for visiting, please feel free to [contact me on LinkedIn](https://www.linkedin.com/in/edeman-george-3aaa1387/).
