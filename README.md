@@ -2,7 +2,7 @@
 
 My name is Ed and I'm coding my way towards my first fulltime dev role.
 
-In 2021 I was a Head of Tech and also learnt how to code from Makers Academy. I also have 4 years tech consulting experience.
+In 2021 I worked as Head of Tech for a startup, after learning how to code from Makers Academy. I also have 4 years tech consulting experience.
 
 2022 goals: 
 * Learning Solidity & the tech of the Blockchain world
