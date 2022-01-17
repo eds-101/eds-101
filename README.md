@@ -8,7 +8,7 @@ In 2021 I was a Head of Tech and also learnt how to code from Makers Academy. I 
 * Learning Solidity & the tech of the Blockchain world
 * React, Typescript & advanced Javascript
 
-Currently reading 📚 (synchronously):
+Currently reading 📚 :
 * Clean Architecture - Robert C Martin aka Uncle Bob
 * Clean Code - Uncle Bob
 
