@@ -6,7 +6,7 @@ In 2021 I worked as Head of Tech for a startup, after learning how to code from 
 
 Current Projects: 
 * Crypto Gods - Coin Voting web app for meme and alt coin discovery
-* TuPack - Private Internal Systems solutions
+* TuPack -  Various internal systems solutions
 
 Currently reading 📚 :
 * Clean Architecture - Robert C Martin aka Uncle Bob
